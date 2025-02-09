@@ -3,45 +3,51 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01 - Demo", "P01 - Demo\P01 - Demo.csproj", "{D296FBC7-9839-4C69-8CF5-3C62CF3474DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01 - Demo", "P01 - Demo\P01 - Demo.csproj", "{D296FBC7-9839-4C69-8CF5-3C62CF3474DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02 - Demo", "P02 - Demo\P02 - Demo.csproj", "{599EECE4-94C5-4D9E-9000-6D303387D6D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02 - Demo", "P02 - Demo\P02 - Demo.csproj", "{599EECE4-94C5-4D9E-9000-6D303387D6D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03 - Demo", "P03 - Demo\P03 - Demo.csproj", "{3FD4841A-39D2-4F5F-BC49-6E0F95B09ECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03 - Demo", "P03 - Demo\P03 - Demo.csproj", "{3FD4841A-39D2-4F5F-BC49-6E0F95B09ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04 - Demo", "P04 - Demo\P04 - Demo.csproj", "{7477088E-9D17-4A61-AEC9-D62CC2A20225}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04 - Demo", "P04 - Demo\P04 - Demo.csproj", "{7477088E-9D17-4A61-AEC9-D62CC2A20225}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05 - RemoveAt", "P05 - RemoveAt\P05 - RemoveAt.csproj", "{A34EDA82-4870-4DE7-A620-CE95312ADFC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05 - RemoveAt", "P05 - RemoveAt\P05 - RemoveAt.csproj", "{A34EDA82-4870-4DE7-A620-CE95312ADFC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06 - InsertAt", "P06 - InsertAt\P06 - InsertAt.csproj", "{8F9C8E2B-B5CE-48E6-B672-1F2F4CB0B2B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06 - InsertAt", "P06 - InsertAt\P06 - InsertAt.csproj", "{8F9C8E2B-B5CE-48E6-B672-1F2F4CB0B2B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07 - Contains", "P07 - Contains\P07 - Contains.csproj", "{E5B20E7B-A8EE-4500-8D4F-8DA4B90E68F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07 - Contains", "P07 - Contains\P07 - Contains.csproj", "{E5B20E7B-A8EE-4500-8D4F-8DA4B90E68F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08 - Sort", "P08 - Sort\P08 - Sort.csproj", "{BAC2BAA8-1555-410E-B066-951B66BDC22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08 - Sort", "P08 - Sort\P08 - Sort.csproj", "{BAC2BAA8-1555-410E-B066-951B66BDC22A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09 - Reverse", "P09 - Reverse\P09 - Reverse.csproj", "{15907F14-DA61-49C5-A3EC-508321BB8B93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P09 - Reverse", "P09 - Reverse\P09 - Reverse.csproj", "{15907F14-DA61-49C5-A3EC-508321BB8B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00 - Demo", "P00 - Demo\P00 - Demo.csproj", "{F1AAF42D-C06C-4D72-86F9-713BE90FD092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P00 - Demo", "P00 - Demo\P00 - Demo.csproj", "{F1AAF42D-C06C-4D72-86F9-713BE90FD092}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P000 - Demo", "P000 - Demo\P000 - Demo.csproj", "{6B36895C-4813-4D6D-94ED-426900C9E39F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P000 - Demo", "P000 - Demo\P000 - Demo.csproj", "{6B36895C-4813-4D6D-94ED-426900C9E39F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10 - Names", "P10 - Names\P10 - Names.csproj", "{4DD901AE-AD14-4886-B1D2-380E1AAD6204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10 - Names", "P10 - Names\P10 - Names.csproj", "{4DD901AE-AD14-4886-B1D2-380E1AAD6204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - Names1", "P11 - Names1\P11 - Names1.csproj", "{7A6CBF60-6136-444B-9EA2-573A1CF6EF7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11 - Names1", "P11 - Names1\P11 - Names1.csproj", "{7A6CBF60-6136-444B-9EA2-573A1CF6EF7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13 - ChetniChisla", "P13 - ChetniChisla\P13 - ChetniChisla.csproj", "{C5793727-1495-47E1-9DB7-2C7794E10BAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P13 - ChetniChisla", "P13 - ChetniChisla\P13 - ChetniChisla.csproj", "{C5793727-1495-47E1-9DB7-2C7794E10BAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14 - Kraynosti", "P14 - Kraynosti\P14 - Kraynosti.csproj", "{550BD49A-118A-42E3-8E6C-6A6E853FAB7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14 - Kraynosti", "P14 - Kraynosti\P14 - Kraynosti.csproj", "{550BD49A-118A-42E3-8E6C-6A6E853FAB7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15 - SumReversedNumbers", "P15 - SumReversedNumbers\P15 - SumReversedNumbers.csproj", "{BF41021B-3485-4DC2-8022-09B143EF106F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15 - SumReversedNumbers", "P15 - SumReversedNumbers\P15 - SumReversedNumbers.csproj", "{BF41021B-3485-4DC2-8022-09B143EF106F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16  - SortNumbers", "P16  - SortNumbers\P16  - SortNumbers.csproj", "{5669C69B-8A48-45FC-893C-A8A585895C8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P16  - SortNumbers", "P16  - SortNumbers\P16  - SortNumbers.csproj", "{5669C69B-8A48-45FC-893C-A8A585895C8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17 - Kvadrati", "P17 - Kvadrati\P17 - Kvadrati.csproj", "{51CD906D-4916-4028-917E-007B0E080A86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P17 - Kvadrati", "P17 - Kvadrati\P17 - Kvadrati.csproj", "{51CD906D-4916-4028-917E-007B0E080A86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P19 - NumbersCount", "P19 - NumbersCount\P19 - NumbersCount.csproj", "{D59CFB54-DBE7-42FF-9EC2-11311EA5B30F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P19 - NumbersCount", "P19 - NumbersCount\P19 - NumbersCount.csproj", "{D59CFB54-DBE7-42FF-9EC2-11311EA5B30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P19 - NumbersCOunt1", "P19 - NumbersCOunt1\P19 - NumbersCOunt1.csproj", "{E6F17C12-8458-45DA-8DF1-F245EB3B60D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P19 - NumbersCOunt1", "P19 - NumbersCOunt1\P19 - NumbersCOunt1.csproj", "{E6F17C12-8458-45DA-8DF1-F245EB3B60D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P20 - RemoveTheNumber", "P20 - RemoveTheNumber\P20 - RemoveTheNumber.csproj", "{13654A56-EB07-4369-897C-8DC3A24FCE97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P21 - RemoveNegativeNumbers", "P21 - RemoveNegativeNumbers\P21 - RemoveNegativeNumbers.csproj", "{C427141D-AA5F-4D81-9914-699B604F061E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P21 - ReversedNumbers1", "P21 - ReversedNumbers1\P21 - ReversedNumbers1.csproj", "{4E18A7FA-6977-4F21-A6B1-C8DC8967F433}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +135,18 @@ Global
 		{E6F17C12-8458-45DA-8DF1-F245EB3B60D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6F17C12-8458-45DA-8DF1-F245EB3B60D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6F17C12-8458-45DA-8DF1-F245EB3B60D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13654A56-EB07-4369-897C-8DC3A24FCE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13654A56-EB07-4369-897C-8DC3A24FCE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13654A56-EB07-4369-897C-8DC3A24FCE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13654A56-EB07-4369-897C-8DC3A24FCE97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C427141D-AA5F-4D81-9914-699B604F061E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C427141D-AA5F-4D81-9914-699B604F061E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C427141D-AA5F-4D81-9914-699B604F061E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C427141D-AA5F-4D81-9914-699B604F061E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E18A7FA-6977-4F21-A6B1-C8DC8967F433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E18A7FA-6977-4F21-A6B1-C8DC8967F433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E18A7FA-6977-4F21-A6B1-C8DC8967F433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E18A7FA-6977-4F21-A6B1-C8DC8967F433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

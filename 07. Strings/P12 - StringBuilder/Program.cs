@@ -15,9 +15,32 @@ namespace P12___StringBuilder
 
             if (cmd[0]== "Remove")
             {
-                sb.Remove(int.Parse(cmd[1]), int.Parse(cmd[2]));
+                int pos = int.Parse(cmd[1]);
+                int lenght = int.Parse(cmd[2]);
+
+                sb.Remove(pos,lenght);
                 Console.WriteLine(sb.ToString());
             }
+
+            if (cmd[0] == "Insert")
+            {
+                int pos = int.Parse(cmd[1]);
+                string duma = cmd[2];
+
+                sb.Insert(pos, duma);
+                Console.WriteLine(sb.ToString());
+            }
+
+            if (cmd[0] == "Replace")
+            {
+                string oldWord = cmd[1];
+                string newWord = cmd[2];
+
+                sb.Replace(oldWord, newWord);
+                Console.WriteLine(sb.ToString());
+            }
+
+
 
         }
     }

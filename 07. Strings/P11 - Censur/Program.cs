@@ -7,7 +7,12 @@
             string censura = Console.ReadLine();
             string izr = Console.ReadLine();
 
-            string newIzr = izr.Replace(censura,new string('*',censura.Length));
+            Censura(censura, izr);
+        }
+
+        private static void Censura(string censura, string izr)
+        {
+            string newIzr = izr.Replace(censura, new string('*', censura.Length));
             Console.WriteLine(newIzr);
         }
     }

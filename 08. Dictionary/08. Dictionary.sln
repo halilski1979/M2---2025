@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00 -Demo", "P00 -Demo\P00 -Demo.csproj", "{9AC679BD-A10D-491B-8676-8F61E0B7B4A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P00 -Demo", "P00 -Demo\P00 -Demo.csproj", "{9AC679BD-A10D-491B-8676-8F61E0B7B4A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02 - Methods", "P02 - Methods\P02 - Methods.csproj", "{ABB1C56C-E989-4DBD-A3F9-899A0F5F13E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02 - Methods", "P02 - Methods\P02 - Methods.csproj", "{ABB1C56C-E989-4DBD-A3F9-899A0F5F13E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02 - Contains", "P02 - Contains\P02 - Contains.csproj", "{5B736AFC-0DFC-4F40-B2AB-3F7485A83567}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02 - Contains", "P02 - Contains\P02 - Contains.csproj", "{5B736AFC-0DFC-4F40-B2AB-3F7485A83567}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03 - AddElements", "P03 - AddElements\P03 - AddElements.csproj", "{8CB4C615-869B-4A43-90B7-8A7E825B3E74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03 - AddElements", "P03 - AddElements\P03 - AddElements.csproj", "{8CB4C615-869B-4A43-90B7-8A7E825B3E74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04 - Zaplata", "P04 - Zaplata\P04 - Zaplata.csproj", "{6769158D-4C8B-4C5F-AC18-A7B059EAF62E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04 - Zaplata", "P04 - Zaplata\P04 - Zaplata.csproj", "{6769158D-4C8B-4C5F-AC18-A7B059EAF62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10 - NechetniSreshtaniq", "P10 - NechetniSreshtaniq\P10 - NechetniSreshtaniq.csproj", "{460ACB6D-EDBC-48A8-B43A-74CD72A6CB1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - Phonebook", "P11 - Phonebook\P11 - Phonebook.csproj", "{F4CBE1D5-07A2-40FD-BC09-41C9390BDB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13 - Market", "P13 - Market\P13 - Market.csproj", "{AE398167-2104-4DF6-A9E6-3196221FFAF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{6769158D-4C8B-4C5F-AC18-A7B059EAF62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6769158D-4C8B-4C5F-AC18-A7B059EAF62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6769158D-4C8B-4C5F-AC18-A7B059EAF62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460ACB6D-EDBC-48A8-B43A-74CD72A6CB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460ACB6D-EDBC-48A8-B43A-74CD72A6CB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460ACB6D-EDBC-48A8-B43A-74CD72A6CB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460ACB6D-EDBC-48A8-B43A-74CD72A6CB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CBE1D5-07A2-40FD-BC09-41C9390BDB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CBE1D5-07A2-40FD-BC09-41C9390BDB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CBE1D5-07A2-40FD-BC09-41C9390BDB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CBE1D5-07A2-40FD-BC09-41C9390BDB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE398167-2104-4DF6-A9E6-3196221FFAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE398167-2104-4DF6-A9E6-3196221FFAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE398167-2104-4DF6-A9E6-3196221FFAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE398167-2104-4DF6-A9E6-3196221FFAF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

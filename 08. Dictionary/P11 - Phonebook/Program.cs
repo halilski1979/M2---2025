@@ -41,6 +41,7 @@
                         Console.WriteLine($"Contact {name} does not exist!");
                     }
                 }
+                
                 if (comand == "ListAll")
                 {
                     foreach (var item in phonebook)
